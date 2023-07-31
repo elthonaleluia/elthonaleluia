@@ -1,16 +1,28 @@
-### Hi there 👋
+<h3>Hi there 👋</h3>
+<hr>
+<h3> About Me </h3>
+<li>📫 I live in Alagoas.</li>
+<li>👩🏼‍🎓 Frontend web developer and Systems for internet graduated.</li>
+<li>👩🏼‍💻 I’m currently working at Group Sempre Comigo.</li>
+<hr>
+<h3> Languages </h3>
+<div>
+  <img src="https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" alt="JavaScript">
+   <img src="https://camo.githubusercontent.com/6cf9abe9d706421df40ff4feff208a5728df2b77f9eb21f24d09df00a0d69203/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="TypeScript">
+</div>
+<hr>
+<h3> Technologies </h3>
+<div>
+     <img src="https://camo.githubusercontent.com/d9a006268b95060fc13ba57307c17fe74a3c5570a0cbb3c0cb05ac490cbc8f21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d4646464646463f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d303038314342" alt="ReactJS">
+       <img src="https://img.shields.io/badge/NEXT-000?style=for-the-badge&logo=next.js&logoColor=white" alt="NEXT.js">
+   <img src="https://img.shields.io/badge/TAILWIND.CSS-FFF?style=for-the-badge&logoColor=white" alt="Tailwind.css">
+</div>
+<hr>
+<h3> TOOLS </h3>
+<div>
+     <img src="https://camo.githubusercontent.com/f8af89797ab2874f88d697ab162d2821c9fdadaa2c299250e8d99ddc668c5f21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3230323032303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974" alt="GIT">
+       <img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GITHUB">
+   <img src="https://camo.githubusercontent.com/a0fa551a87c244a09d651ebb1ca5189a4f52a873379d7460d6fb25c55e20b324/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3230323032303f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" alt="VSCODE">
+</div>
 
-<!--
-**elthonaleluia/elthonaleluia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
