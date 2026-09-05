@@ -108,7 +108,7 @@ Atuo há mais de 5 anos com tecnologia e inovação. Minha experiência combina 
 
 **📱 Super App** (nova geração, arquitetura de micro-frontends)
 
-Unificação de monitoramento, contratação e autoatendimento em um único aplicativo. Em vez de um monólito, o produto é composto por **13 aplicações independentes**, cada uma com seu próprio ciclo de deploy, integradas por um shell nativo e por autenticação compartilhada. Isso permite migrar o legado por partes, entregando módulo a módulo.
+Unificação de monitoramento, contratação e autoatendimento em um único aplicativo. Em vez de um monólito, o produto é composto por **12 aplicações independentes**, cada uma com seu próprio ciclo de deploy, integradas por um shell nativo e por autenticação compartilhada. Isso permite migrar o legado por partes, entregando módulo a módulo.
 
 | Módulo | O que é |
 |---|---|
@@ -116,15 +116,14 @@ Unificação de monitoramento, contratação e autoatendimento em um único apli
 | **Auth** | Login único. O cliente entra uma vez e circula por qualquer módulo sem repetir senha ou perder o contexto |
 | **Home** | A porta de entrada. Mostra a situação dos veículos, avisos importantes e atalhos para o que o cliente mais usa |
 | **Monitoramento** | Onde o cliente acompanha o veículo no mapa, consulta o histórico de trajetos, recebe alertas e envia comandos como o bloqueio remoto |
+| **Assistência 24h** | Onde o cliente pede socorro na hora do aperto, a qualquer hora do dia: aciona o atendimento, acompanha o andamento e consulta o histórico dos acionamentos |
 | **Loja** | Onde o cliente simula um plano, compara opções e contrata sozinho, sem depender de atendimento |
-| **Checkout** | Fecha a contratação: escolha da forma de pagamento, aceite e divisão do valor entre os parceiros envolvidos na venda |
 | **Faturas** | Segunda via, histórico e pagamento da mensalidade pelo próprio cliente, sem abrir chamado |
 | **Financeiro** | Dá à operação a visão do dinheiro: recebimentos, pendências, inadimplência e indicadores da carteira |
 | **CRM** | Onde o time acompanha cada cliente: atendimento, histórico, oportunidades e as ordens de serviço de instalação e manutenção |
 | **Pessoas e Ativos** | Cadastro de clientes e veículos, e o controle de quem pode ver ou bloquear cada veículo compartilhado |
 | **Afiliado** | Permite que parceiros indiquem clientes e acompanhem as próprias comissões |
 | **DP/RH** | Gestão do time interno: cadastro, documentos e rotinas de departamento pessoal |
-| **ServiceBridgeHub** | Mantém os módulos conversando entre si e com o backend, para que a experiência siga integrada mesmo com deploys independentes |
 
 #### Outros projetos
 
