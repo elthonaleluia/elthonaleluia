@@ -6,7 +6,7 @@
 
 Atuo há mais de 5 anos com tecnologia e inovação. Minha experiência combina **Product Ownership**, **Product Design** e **Software Engineering**, conectando negócio, produto, experiência e tecnologia em um único ciclo de desenvolvimento.
 
-🔗 **[Portfólio de projetos](https://elthonaleluia.com.br/)**
+🔗 **[Portfólio de projetos]()**
 
 ---
 
