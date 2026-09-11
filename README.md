@@ -94,17 +94,10 @@ Atuo há 5 anos em tecnologia e inovação. Minha experiência combina **Product
 
 ### Projetos em que atuei
 
-#### 🚗 Sempre Comigo · ecossistema de mobilidade veicular
+#### 🚗 Sempre Comigo · ecossistema
 
-`Ago/2023 · atual` · Product Designer, depois Product Owner e hoje Supervisor de Desenvolvimento de Software
+`Ago/2023 · atual` · Product Designer/Owner, e hoje Supervisor de Desenvolvimento de Software
 
-**🏛️ Plataforma legada** (em operação)
-
-| Sistema | O que é |
-|---|---|
-| **ERP** | Gestão administrativa e operacional: cobrança recorrente, faturamento, emissão fiscal, conciliação financeira e régua de inadimplência |
-| **Marketplace** | Cotação, contratação, meios de pagamento e split entre parceiros |
-| **Comigo App** | Aplicativo B2C de monitoramento veicular: mapa, histórico de trajetos, eventos e comandos |
 
 **📱 Super App** (nova geração, arquitetura de micro-frontends)
 
