@@ -4,7 +4,7 @@
 
 > Transformo problemas de negócio em produtos digitais: entendo o problema, desenho a solução, defino a arquitetura e participo da construção até a entrada em produção.
 
-Atuo há mais de 5 anos com tecnologia e inovação. Minha experiência combina **Product Ownership**, **Product Design** e **Software Engineering**, conectando negócio, produto, experiência e tecnologia em um único ciclo de desenvolvimento.
+Atuo há 5 anos em tecnologia e inovação. Minha experiência combina **Product Ownership**, **Product Design** e **Software Engineering**, conectando negócio, produto, experiência e tecnologia em um único ciclo de desenvolvimento.
 
 🔗 **[Portfólio de projetos]()**
 
