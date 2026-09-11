@@ -146,7 +146,6 @@ Unificação de monitoramento, contratação e autoatendimento em um único apli
 ### Contato
 
 - 📍 Maceió, Alagoas, Brasil
-- 🌐 [elthonaleluia.com.br](https://elthonaleluia.com.br/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/elthonaleluia/)
 - 📫 elthon.aleluia@gmail.com
 - 🔒 A maior parte do que eu construo vive em repositórios privados, então este perfil é mais silencioso que o trabalho. Fico à vontade para conversar sobre a arquitetura e as decisões por trás dela.
