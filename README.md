@@ -1,4 +1,4 @@
-## Olá, eu sou o Elthon 👋
+## Olá, eu sou o Elthon
 
 **Product Engineer** · Supervisor de Desenvolvimento de Software na Sempre Comigo
 
